@@ -1,0 +1,6 @@
+{
+  "name": "note-reviewer",
+  "description": "ブログ記事・技術メモのMarkdownを校閲し、タイトル案・ハッシュタグ・個人情報チェックまで行う編集者プラグイン",
+  "version": "0.1.0",
+  "author": { "name": "lacode" }
+}
