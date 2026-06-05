@@ -16,10 +16,14 @@
 
 ## インストール
 
+Claude Code で次の2つを実行するだけ（手動の `git clone` は不要。リポジトリは自動で取得されます）。
+
 ```
-/plugin marketplace add <あなたのGitHubユーザー名>/note-reviewer-plugin
+/plugin marketplace add lacode-lab/note-reviewer-plugin
 /plugin install note-reviewer@note-reviewer-marketplace
 ```
+
+公開リポジトリなので認証は不要です。アンインストールや有効・無効の切り替えは `/plugin` メニューから行えます。
 
 ## 開発時（ローカル確認）
 
