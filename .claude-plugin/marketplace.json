@@ -1,0 +1,11 @@
+{
+  "name": "note-reviewer-marketplace",
+  "owner": { "name": "lacode" },
+  "plugins": [
+    {
+      "name": "note-reviewer",
+      "source": "./note-reviewer",
+      "description": "ブログ記事・技術メモのMarkdownを校閲し、タイトル案・ハッシュタグ・個人情報チェックまで行う"
+    }
+  ]
+}
